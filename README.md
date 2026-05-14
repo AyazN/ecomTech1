@@ -26,4 +26,4 @@ Run in the main directory:
 ```bash
 pytest
 ```
-Tests every endpoint and validates the input data
+Tests endpoints and the input data validation 
